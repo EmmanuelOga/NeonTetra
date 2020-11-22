@@ -1,0 +1,11 @@
+{
+  "name": "neontetra",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@terminusdb/terminusdb-client": "^4.0.0",
+    "mustache": "^4.0.1"
+  }
+}
